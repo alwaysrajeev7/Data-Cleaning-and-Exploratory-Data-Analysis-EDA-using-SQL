@@ -8,18 +8,18 @@
 - The dataset contains information about various laptops, including details such as the company, type, screen size, specifications, and price. 
 - The dataset is provided in CSV format and includes the following columns:
 
-**Unnamed: 0:** Index column
-**Company:** Laptop manufacturer
-**TypeName:** Type of laptop (e.g., Ultrabook, Notebook)
-**Inches:** Screen size in inches
-**ScreenResolution:** Screen resolution
-**Cpu:** Processor type and speed
-**Ram:** RAM capacity
-**Memory:** Storage type and capacity
-**Gpu:** Graphics processing unit
-**OpSys:** Operating system
-**Weight:** Laptop weight
-**Price:** Laptop price
+- **Unnamed: 0:** Index column
+- **Company:** Laptop manufacturer
+- **TypeName:** Type of laptop (e.g., Ultrabook, Notebook)
+- **Inches:** Screen size in inches
+- **ScreenResolution:** Screen resolution
+- **Cpu:** Processor type and speed
+- **Ram:** RAM capacity
+- **Memory:** Storage type and capacity
+- **Gpu:** Graphics processing unit
+- **OpSys:** Operating system
+- **Weight:** Laptop weight
+- **Price:** Laptop price
 
 # Data Cleaning
 - Data cleaning involves preparing the dataset for analysis by addressing data quality issues.
